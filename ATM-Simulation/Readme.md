@@ -33,7 +33,7 @@ cd path/to/ATM_Simulation
 
 
 Compile the code:
-g++ ATM_Simulation.cpp -o ATM_Simulation
+g++ Main.cpp -o main
 
 
 Run the executable:

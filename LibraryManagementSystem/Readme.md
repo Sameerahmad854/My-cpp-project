@@ -27,7 +27,7 @@ LibraryManagement/
 cd path/to/LibraryManagement
 
 3. Compile the code:
- g++ LibraryManagement.cpp -o LibraryManagement
+ g++ MAIN.cpp -o main
 4. Run the executable:
 ./LibraryManagement
 
