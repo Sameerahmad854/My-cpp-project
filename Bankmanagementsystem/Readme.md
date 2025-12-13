@@ -14,9 +14,9 @@ A simple console-based **Bank Management System** in C++ that allows users to cr
 ## File Structure
  give next## File Structure
 BankManagement/
-1) .BankManagement.cpp   # Main C++ source code file
- 2) .bank.txt             # Data file to store account info (auto-created)
-3) .README.md            # Project documentation
+1) Main.cpp   # Main C++ source code file
+ 2) bank.txt             # Data file to store account info (auto-created)
+3) README.md            # Project documentation
 
 ## How to Compile & Run
 

@@ -14,7 +14,7 @@ A simple **Calculator** project in C++ that performs basic arithmetic operations
 ## File Structure
 
 SimpleCalculator/
-1. SimpleCalculator.cpp # Main C++ source code file
+1. Main.cpp # Main C++ source code file
 2. README.md # Project documentation
 
 ## How to Compile & Run

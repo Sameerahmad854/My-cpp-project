@@ -14,7 +14,7 @@ A simple **Contact Manager** project in C++ that allows users to manage their co
 
 ContactManager/
 
-1. ContactManager.cpp # Main C++ source code file
+1.Main.cpp # Main C++ source code file
 2. contact.txt # Data file to store contacts (auto-created)
 3. README.md # Project documentation
 
