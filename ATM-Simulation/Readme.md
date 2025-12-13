@@ -19,9 +19,8 @@ This project is console-based and uses basic C++ input/output operations. It sim
 ## File Structure
 
 ATM_Simulation/
-│
-├── ATM_Simulation.cpp # Main C++ source code file
-├── README.md # Project documentation
+ATM_Simulation.cpp # Main C++ source code file
+ README.md # Project documentation
 
 ## How to Compile & Run
 
