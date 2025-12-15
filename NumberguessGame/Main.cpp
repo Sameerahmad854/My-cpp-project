@@ -18,8 +18,8 @@ int main()
                     if (!(cin >> guess))
                     {
                               cout << "Invalid input! Please enter a number." << endl;
-                              cin.clear();             // Clear error flags
-                              cin.ignore(10000, '\n'); // Ignore invalid input
+                              cin.clear();
+                              cin.ignore(10000, '\n');
                               continue;
                     }
                     attempts++;

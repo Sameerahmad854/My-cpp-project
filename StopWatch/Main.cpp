@@ -52,7 +52,7 @@ public:
 
           void showTime()
           {
-                    cout << fixed << setprecision(2); // 2 decimal places
+                    cout << fixed << setprecision(2); 
                     if (running)
                     {
                               auto current = elapsed + (steady_clock::now() - start_time);

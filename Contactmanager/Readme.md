@@ -28,7 +28,7 @@ cd path/to/ContactManager
 
 3. Compile the code:
 
-g++ ContactManager.cpp -o ContactManager
+g++ Main.cpp -o main
 4. Run the executable:
 
 ./ContactManager 
