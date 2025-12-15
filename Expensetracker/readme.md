@@ -26,7 +26,7 @@ cd path/to/ExpenseTracker
 
 3. Compile the code:
 
-g++ MAIN.cpp -o main
+g++ MAIN.cpp -o ExpenseTracker
 
 4. Run the executable:
 ./ExpenseTracker

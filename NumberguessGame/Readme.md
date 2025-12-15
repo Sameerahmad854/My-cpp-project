@@ -24,7 +24,7 @@ cd path/to/NumberGuessingGame
 
 4. Compile the code:
 
-g++ MAIN.cpp -o main
+g++ MAIN.cpp -o NumberGuessingGame
 5. Run the executable:
 
 ./NumberGuessingGame 

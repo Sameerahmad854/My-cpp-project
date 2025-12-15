@@ -26,7 +26,7 @@ cd path/to/SimpleCalculator
 
 3. Compile the code:
 
-g++ Main.cpp -o main
+g++ Main.cpp -o SimpleCalculator
 4. Run the executable:
 
 ./SimpleCalculator

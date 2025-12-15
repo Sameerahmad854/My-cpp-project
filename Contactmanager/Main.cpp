@@ -19,7 +19,7 @@ void listContact()
           while (file >> name >> phone)
 
           {
-                    /* code */
+
                     cout << count << "." << name << "-" << phone << endl;
                     count++;
           }
@@ -51,7 +51,7 @@ void searchContact()
           bool found = false;
           while (file >> name >> phone)
           {
-                    /* code */
+
                     if (name == searchname)
                     {
                               cout << "Contact found:" << name << "-" << phone << endl;

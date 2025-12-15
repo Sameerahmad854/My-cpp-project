@@ -5,7 +5,7 @@
 using namespace std;
 using namespace std::chrono;
 
-class Stopwatch
+          class Stopwatch
 {
 private:
           bool running;

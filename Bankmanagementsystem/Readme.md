@@ -27,7 +27,7 @@ cd path/to/BankManagement
 
 3. Compile the code:
 
-g++ Main.cpp -o main
+g++ Main.cpp -o BankManagement
 4. Run the executable:
 
 ./BankManagement
